@@ -1,0 +1,5 @@
+# we are ignoring node-js modules
+./node_modules/
+
+# and of course the build folder
+./build
